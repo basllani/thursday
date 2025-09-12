@@ -1,0 +1,2 @@
+# thursday
+my first repositary
